@@ -1,3 +1,68 @@
-h1 {
-    color: red;
-}
+#Header
+    {
+        font-size: larger;
+        margin-left: 500px;
+        position:sticky
+    }
+
+#imgage
+    {
+       padding-left: 5px;
+       float: right; 
+    }
+
+#Name
+    {
+        color: red;
+        margin-left: 220px;
+        margin-top: -220px;
+    }
+
+#description
+    {
+        margin-left: 220px;
+        margin-top: -30px;
+    }
+#paragraph
+    {
+        margin-top: -90;
+        padding-right: 70px;
+    }
+
+.skills
+    {
+        color: red;
+        padding: 10px;
+    }
+    
+#box1
+    {
+        padding-left: 10px;
+        border-style: double;
+        border-color: black;
+        margin-right: 1480px;
+        position: sticky;
+    }
+
+#box2
+    {
+        margin-left: 450px;
+        margin-top: -184px;
+        border-style: double;
+        border-color: black;
+        margin-right: 1000px;
+        padding-left: 10px;
+        position: sticky;
+    }
+
+#form
+    {
+        margin-left: 1400px;
+        margin-top: -150px;
+    }
+
+#button
+    {
+        margin-left: 1000px;
+        margin-top: -20px;
+    }
